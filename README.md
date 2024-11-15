@@ -3,4 +3,4 @@ We will release the code of Opera-MT and the PM dataset in the paper "Opera-MT: 
 
 
 
-![image-20241115154035323](\assets\image-20241115154035323.png)
+![image-20241115154035323](/assets/image-20241115154035323.png)
